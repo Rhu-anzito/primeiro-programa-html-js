@@ -1,19 +1,3 @@
 # primeiro-programa-html-js
 
-Primeiro Programa em HTML, CSS e JavaScript
-
-Projeto simples criado para praticar os primeiros conceitos de desenvolvimento web.
-
-O que este projeto faz:
-
--Mostra uma página com fundo personalizado
--Exibe um título em HTML
--Pede o nome do usuário com window.prompt()
--Exibe uma mensagem de boas-vindas com window.alert()
--Contém comentários explicativos no código
-
-Tecnologias usadas:
-
--HTML
--CSS
--JavaScript
+Projeto simples desenvolvido para praticar HTML, CSS e JavaScript. Exibe uma página com título, plano de fundo, interação com o usuário por meio de prompt e alerta, além de comentários no código para facilitar o aprendizado e compreensão da lógica utilizada.
